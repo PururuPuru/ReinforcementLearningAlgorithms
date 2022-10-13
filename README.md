@@ -2,9 +2,9 @@
 This repository provides code for basic reinforcement learning algorithms. All code is written in Python 3 and uses RL environments from [OpenAI Gym](https://www.gymlibrary.dev/)
 
 ## List of Implemented Algorithms
-- Policy Evaluation
-- Policy Iteration
-- Value Iteration
+- [Policy Evaluation](https://github.com/PururuPuru/ReinforcementLearningAlgorithms/blob/main/Dynamic%20Programming/policy_evaluation.py)
+- [Policy Iteration](https://github.com/PururuPuru/ReinforcementLearningAlgorithms/blob/main/Dynamic%20Programming/policy_iteration.py)
+- [Value Iteration](https://github.com/PururuPuru/ReinforcementLearningAlgorithms/blob/main/Dynamic%20Programming/value_iteration.py)
 
 ## Resources
 #### Textbooks:
