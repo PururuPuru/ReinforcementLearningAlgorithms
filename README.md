@@ -5,6 +5,9 @@ This repository provides code for basic reinforcement learning algorithms. All c
 - [Policy Evaluation](https://github.com/PururuPuru/ReinforcementLearningAlgorithms/blob/main/Dynamic%20Programming/policy_evaluation.py)
 - [Policy Iteration](https://github.com/PururuPuru/ReinforcementLearningAlgorithms/blob/main/Dynamic%20Programming/policy_iteration.py)
 - [Value Iteration](https://github.com/PururuPuru/ReinforcementLearningAlgorithms/blob/main/Dynamic%20Programming/value_iteration.py)
+- [Sarsa](https://github.com/PururuPuru/ReinforcementLearningAlgorithms/blob/main/Temporal%20Difference%20Learning/sarsa.py)
+- [Q-Learning](https://github.com/PururuPuru/ReinforcementLearningAlgorithms/blob/main/Temporal%20Difference%20Learning/q_learning.py)
+- [Expected Sarsa](https://github.com/PururuPuru/ReinforcementLearningAlgorithms/blob/main/Temporal%20Difference%20Learning/expected_sarsa.py)
 
 ## Resources
 #### Textbooks:
