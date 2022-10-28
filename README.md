@@ -12,10 +12,10 @@ This repository provides code for basic reinforcement learning algorithms. All c
 - [Expected Sarsa](https://github.com/PururuPuru/ReinforcementLearningAlgorithms/blob/main/Temporal%20Difference%20Learning/expected_sarsa.py)
 
 ## Resources
-#### Textbooks:
+#### Textbooks
 - [Reinforcement Learning - An Introduction (2nd Edition)](http://incompleteideas.net/book/RLbook2018.pdf)
 - [Grokking Deep Reinforcement Learning](https://www.manning.com/books/grokking-deep-reinforcement-learning)
-#### Courses:
+#### Courses
 - [Become a Deep Reinforcement Learning Expert - Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893)
-#### Code:
+#### Code
 - [DennyBritz - Reinforcement Learning](https://github.com/dennybritz/reinforcement-learning)
